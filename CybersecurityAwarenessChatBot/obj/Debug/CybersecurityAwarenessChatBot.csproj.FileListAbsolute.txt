@@ -1,0 +1,8 @@
+C:\Users\wieha\source\repos\CybersecurityAwarenessChatBot\bin\Debug\CybersecurityAwarenessChatBot.exe.config
+C:\Users\wieha\source\repos\CybersecurityAwarenessChatBot\bin\Debug\CybersecurityAwarenessChatBot.exe
+C:\Users\wieha\source\repos\CybersecurityAwarenessChatBot\bin\Debug\CybersecurityAwarenessChatBot.pdb
+C:\Users\wieha\source\repos\CybersecurityAwarenessChatBot\obj\Debug\CybersecurityAwarenessChatBot.csproj.AssemblyReference.cache
+C:\Users\wieha\source\repos\CybersecurityAwarenessChatBot\obj\Debug\CybersecurityAwarenessChatBot.csproj.CoreCompileInputs.cache
+C:\Users\wieha\source\repos\CybersecurityAwarenessChatBot\obj\Debug\CybersecurityAwarenessChatBot.exe
+C:\Users\wieha\source\repos\CybersecurityAwarenessChatBot\obj\Debug\CybersecurityAwarenessChatBot.pdb
+C:\Users\wieha\source\repos\CybersecurityAwarenessChatBot\bin\Debug\Assets\welcome.wav
