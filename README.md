@@ -12,11 +12,11 @@ The bot identifies particular cybersecurity subjects such as passwords, phishing
 It is now capable of identifying emotional signals such as worry, confusion, or frustration and reacting with empathy prior to offering advice related to the topic.
 
 Example: “I’m really worried about scams” triggers an encouraging message and helpful scam tips.
+
 •	Memory & Recall
-
 The chatbot retains knowledge of your preferred topic and can provide additional details if you request more information later.
-•	Conversational Flow
 
+•	Conversational Flow
 You can pose additional questions such as “tell me more” or “what else?” and the chatbot will carry on the conversation without revisiting the original topic.
 
 _________________________________________________________________________________________________________________________________________
